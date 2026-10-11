@@ -398,7 +398,7 @@ Use this checklist to track your progress:
 
 ## 👨‍💻 Author
 
-**Shivam Kumar**
+**Shivam**
 
 MCA Student | Learning Python, Data Analysis, and Machine Learning
 
